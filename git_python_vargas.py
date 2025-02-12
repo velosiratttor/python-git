@@ -10,3 +10,7 @@ print(c*d)
 f=5
 g=6
 print(f/g)
+
+w=56
+x=67
+print(w+x)
