@@ -14,3 +14,7 @@ print(f/g)
 w=56
 x=67
 print(w+x)
+
+u=10
+l=4
+print(u-l)
