@@ -7,5 +7,6 @@ contraseña=input("ingrese su contraseña: ")
 if usuario == nombre_del_usuario and contraseña == contraseña_correcta:
     print("acceso concedido")
 else:
+    print("acceso denegado")
     
     
