@@ -1,1 +1,2 @@
-print("saludos")
+S="saludos"
+S+=" a "
