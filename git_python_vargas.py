@@ -18,3 +18,7 @@ print(w+x)
 u=10
 l=4
 print(u-l)
+
+ñ=8
+o=12
+print(ñ+o)
