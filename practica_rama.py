@@ -1,0 +1,1 @@
+print("Rama practica")
